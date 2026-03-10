@@ -1,0 +1,37 @@
+# Core Infrastructure
+firebase-admin>=6.4.0
+google-cloud-firestore>=2.13.0
+python-dotenv>=1.0.0
+
+# Semantic Trigger Engine
+gitpython>=3.1.40
+watchdog>=3.0.0
+psutil>=5.9.0
+
+# Local LLM & Processing
+transformers>=4.40.0
+torch>=2.2.0
+torchvision>=0.17.0
+accelerate>=0.27.0
+bitsandbytes>=0.42.0
+
+# Image/Graphics Generation
+Pillow>=10.2.0
+svgwrite>=1.4.3
+numpy>=1.24.0
+scikit-learn>=1.3.0
+
+# Web Interface & UX
+flask>=3.0.2
+plyer>=2.1.0
+jinja2>=3.1.3
+pygments>=2.17.2
+
+# Blockchain (Phase 3)
+web3>=6.15.0
+requests>=2.31.0
+
+# Utilities
+pydantic>=2.6.0
+loguru>=0.7.2
+schedule>=1.2.0
